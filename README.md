@@ -11,12 +11,10 @@ Smart Sales Insights Hub is a complete sales analytics solution that extracts, c
 # 🔎 How It Works
 The sales data is imported into SQL, cleaned, and analyzed using SQL queries to extract meaningful insights. The processed data is then connected to Power BI, where interactive dashboards and visual reports are created to understand trends, performance, and key KPIs.
 # 🚀 Setup & Installation
-1. Clone the Repository
-git clone https://github.com/PranathiYarravalli20/Sales_Insights-SQL-Power-BI.git
-2. Execute the data cleaning and exploration SQL scripts in your SQL editor.
-3. Load Sales Insights - Visualization.pbix into Power BI Desktop.
-4. Connect it to your SQL database or use the already prepared dataset inside the PBIX file.
-5. Use slicers and visuals to explore sales insights and KPIs.
+1. Execute the data cleaning and exploration SQL scripts in your SQL editor.
+2. Load Sales Insights - Visualization.pbix into Power BI Desktop.
+3. Connect it to your SQL database or use the already prepared dataset inside the PBIX file.
+4. Use slicers and visuals to explore sales insights and KPIs.
 # 📈 Key Insights
 1. Year-over-Year Sales Drop: Sales in 2020 dropped significantly (~57.7%) compared to 2019.
 2. Top Revenue Markets: Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, and Nagpur generated the highest revenue.
