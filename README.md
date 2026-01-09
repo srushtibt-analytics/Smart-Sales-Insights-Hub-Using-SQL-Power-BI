@@ -23,7 +23,9 @@ git clone https://github.com/PranathiYarravalli20/Sales_Insights-SQL-Power-BI.gi
 3. Top Sales Quantities: Highest quantities sold were in Delhi NCR, Mumbai, Nagpur, Kochi, and Ahmedabad.
 4. Peak Sales Months: Most sales occurred in January, followed by November and March.
 <img width="1339" height="726" alt="Screenshot 2026-01-09 150020" src="https://github.com/user-attachments/assets/ab690c59-e5df-4f09-8b01-5546e88eb442" />
+
 <img width="1338" height="727" alt="Screenshot 2026-01-09 150316" src="https://github.com/user-attachments/assets/ceb0d7ee-e38c-40ed-a61d-66b3d1461b6e" />
+
 <img width="1335" height="733" alt="Screenshot 2026-01-09 150345" src="https://github.com/user-attachments/assets/157c5658-b041-4e3b-ad20-3c9849584b19" />
 
 
